@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDmkw804Ir7ivC4hVCyt0us5w4BhmGyk5A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467118178917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.moremirim.Flash-Chat-iOS13</string>
+	<key>PROJECT_ID</key>
+	<string>chat-app-ios-fee0a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-app-ios-fee0a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467118178917:ios:e8e858c7db6556d5e6bc8c</string>
+</dict>
+</plist>
